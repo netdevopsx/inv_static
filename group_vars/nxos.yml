@@ -7,7 +7,7 @@ openconfig:
       config:
         enable: true
         ntp-source-address: ''
-        ntp-source-interface: Vlan2 # Out of OpenConfig standart
+        ntp-source-interface: Loopback0 # Out of OpenConfig standart
         enable-ntp-auth: false
       servers:
         server:
