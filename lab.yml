@@ -1,0 +1,5 @@
+---
+nxos:
+  hosts:
+    sw_nexus_1:
+    sw_nexus_2:
