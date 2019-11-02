@@ -1,5 +1,7 @@
 ---
-nxos:
+dc1:
   hosts:
-    sw_nexus_1:
-    sw_nexus_2:
+    dc1_sw_core_1:
+    dc1_sw_core_2:
+    dc1_sw_access_1:
+    dc1_sw_access_2:
